@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import swiftVibrant
+import SwiftVibrantium
 
 class ViewController: UIViewController {
     
