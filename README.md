@@ -1,4 +1,4 @@
-# SwiftVibrantium (an SPM offshoot of swift-vibrantium)
+# SwiftVibrantium (an SPM offshoot of swift-vibrant)
 
 Generate a color palette from a UIImage. 
 
