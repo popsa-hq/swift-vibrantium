@@ -25,7 +25,7 @@ let package = Package(
             name: "SwiftVibrantium",
             dependencies: []),
 //        .testTarget(
-//            name: "swift-vibrantiumTests",
-//            dependencies: ["swift-vibrantium"]),
+//            name: "SwiftVibrantiumTests",
+//            dependencies: ["SwiftVibrantium"]),
     ]
 )

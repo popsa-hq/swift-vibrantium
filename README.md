@@ -1,4 +1,4 @@
-# swift-vibrant
+# SwiftVibrantium (an SPM offshoot of swift-vibrantium)
 
 Generate a color palette from a UIImage. 
 
@@ -256,6 +256,10 @@ Delta E  | Perception                             | Returns
 ## Notes
 - This library uses code from [ColorThiefSwift](https://github.com/yamoridon/ColorThiefSwift), mostly borrowing from their implementation of the modified median cut quantization (MMCQ) algorithm
 - A majority of the rest was adapted from [node-vibrant](https://github.com/Vibrant-Colors/node-vibrant/)
+
+## Adaptation to SPM and subsequent updates
+
+Jasper Valdivia: contact@jaspervaldivia.dev
 
 ## Author
 
