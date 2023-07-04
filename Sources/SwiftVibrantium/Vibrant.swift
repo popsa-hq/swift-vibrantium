@@ -25,6 +25,8 @@ public class Vibrant {
         var filters: [Filter] = [Filter.defaultFilter]
         
         fileprivate var combinedFilter: Filter?
+
+        public init() {}
     }
     
     public static func from( _ src: UIImage)->Builder {
