@@ -12,17 +12,17 @@ import UIKit
 public class Vibrant {
     
     public struct Options {
-        var colorCount: Int = 64
+        public var colorCount: Int = 64
         
-        var quality: Int = 5
+        public var quality: Int = 5
         
-        var quantizer: Quantizer.quantizer = Quantizer.defaultQuantizer
+        public var quantizer: Quantizer.quantizer = Quantizer.defaultQuantizer
         
-        var generator: Generator.generator = Generator.defaultGenerator
+        public var generator: Generator.generator = Generator.defaultGenerator
         
-        var maxDimension: CGFloat?
+        public var maxDimension: CGFloat?
         
-        var filters: [Filter] = [Filter.defaultFilter]
+        public var filters: [Filter] = [Filter.defaultFilter]
         
         fileprivate var combinedFilter: Filter?
 
